@@ -3,6 +3,9 @@ package com.eden.http;
 import java.io.IOException;
 import java.io.OutputStream;
 
+/**
+ * 响应实体类
+ */
 public class Response {
 
     public OutputStream outputStream;
