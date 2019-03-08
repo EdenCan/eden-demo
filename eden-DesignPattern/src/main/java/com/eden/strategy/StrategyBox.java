@@ -9,6 +9,7 @@ public class StrategyBox {
      * 构造函数，你要使用那个妙计
      */
     private IStrategy straegy;
+
     public StrategyBox(IStrategy strategy){
         this.straegy = strategy;
     }

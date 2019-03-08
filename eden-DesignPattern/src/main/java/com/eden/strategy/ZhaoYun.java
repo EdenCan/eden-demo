@@ -2,6 +2,8 @@ package com.eden.strategy;
 
 /**
  * 使用策略
+ * 策略模式:高内聚低耦合的特点也表现出来了，
+ * 还有一个就是扩展性，也就是 OCP 原则，策略类可以继续增加下去，只要修改 StrategyBox.java 就可以了
  */
 public class ZhaoYun {
 
